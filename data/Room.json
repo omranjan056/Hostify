@@ -1,0 +1,52 @@
+{
+    "Room":[
+        {
+            "id": 1,
+            "HostelID": 3,
+            "Occupancy": 0,
+            "isReserved": 1,
+            "floorId": 3,
+            "rentCost": "4000"
+        },
+        {
+            "id": 2,
+            "HostelID": 1,
+            "Occupancy": 1,
+            "isReserved": 0,
+            "floorId": 1,
+            "rentCost": "3500"
+        },
+        {
+            "id": 3,
+            "HostelID": 4,
+            "Occupancy": 1,
+            "isReserved": 0,
+            "floorId": 1,
+            "rentCost": "4500"
+        },
+        {
+            "id": 4,
+            "HostelID": 1,
+            "Occupancy": 0,
+            "isReserved": 1,
+            "floorId": 4,
+            "rentCost": "5000"
+        },
+        {
+            "id": 5,
+            "HostelID": 1,
+            "Occupancy": 1,
+            "isReserved": 1,
+            "floorId": 2,
+            "rentCost": "4000"
+        },
+        {
+            "id": 6,
+            "HostelID": 5,
+            "Occupancy": 0,
+            "isReserved": 0,
+            "floorId": 0,
+            "rentCost": "5739"
+        }
+    ]
+}

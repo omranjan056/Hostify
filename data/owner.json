@@ -1,0 +1,112 @@
+{
+    "owner":[
+        {
+            "ownerID": "ID001",
+            "HostelID": 1,
+            "name": "Ramchandran Das",
+            "DOB" : "21/04/1996",
+            "phoneNo": "9934394394",
+            "emailID": "ramchandran345@gmail.com",
+            "profileID": "/profile/Ramchandran"
+        },
+        {
+            "ownerID": "ID002",
+            "HostelID": 1,
+            "name": "Shivnaya sosmita",
+            "DOB" : "12/02/1999",
+            "phoneNo": "9922342379",
+            "emailID": "shivanya34325@gmail.com",
+            "profileID": "/profile/Shivnaya"
+        },
+        {
+            "ownerID": "ID003",
+            "HostelID": 5,
+            "name": "Ramakant Bharwaj",
+            "DOB" : "07/02/1991",
+            "phoneNo": "7243274234",
+            "emailID": "ramakant5435@gmail.com",
+            "profileID": "/profile/Ramakant"
+        },
+        {
+            "ownerID": "ID004",
+            "HostelID": 6,
+            "name": "Prince Raja",
+            "DOB" : "03/09/1995",
+            "phoneNo": "7246863429",
+            "emailID": "prince454@gmail.com",
+            "profileID": "/profile/Prince"
+        },
+        {
+            "ownerID": "ID005",
+            "HostelID": 4,
+            "name": "Harsh Rajput",
+            "DOB" : "03/09/1995",
+            "phoneNo": "7246863429",
+            "emailID": "prince454@gmail.com",
+            "profileID": "/profile/Harsh"
+        },
+        {  
+            "ownerID": "ID006",
+            "HostelID": 1,
+            "name": "Shushma kandar",
+            "DOB" : "11/05/1997",
+            "phoneNo": "7235424524",
+            "emailID": "shushma822@gmail.com",
+            "profileID": "/profile/Shushma"
+        },
+        { 
+            "ownerID": "ID007",
+            "HostelID": 3,
+            "name": "Purumeta pukumar",
+            "DOB" : "06/01/1992",
+            "phoneNo": "7234523104",
+            "emailID": "Purumeta8454@gmail.com",
+            "profileID": "/profile/Purumeta"
+        },
+        {
+            "ownerID": "ID008",
+            "HostelID": 6,
+            "name": "Shilpi Rani",
+            "DOB" : "09/03/2001",
+            "phoneNo": "7234523104",
+            "emailID": "shilpi6969@gmail.com",
+            "profileID": "/profile/Shilpi"
+        },
+        {
+            "ownerID": "ID009",
+            "HostelID": 3,
+            "name": "Rohit saha",
+            "DOB" : "17/05/1994",
+            "phoneNo": "7233422104",
+            "emailID": "rohit8238@gmail.com",
+            "profileID": "/profile/Rohit"
+        },
+        {
+            "ownerID": "ID010",
+            "HostelID": 4,
+            "name": "Burmunda Burkumar",
+            "DOB" : "01/01/1889",
+            "phoneNo": "9169696969",
+            "emailID": "Burkumar8238@gmail.com",
+            "profileID": "/profile/Burkumar"
+        },
+        {
+            "ownerID": "ID011",
+            "HostelID": 5,
+            "name": "Sriram Nayak",
+            "DOB" : "23/11/1997",
+            "phoneNo": "6203848282",
+            "emailID": "Sriram6443@gmail.com",
+            "profileID": "/profile/Sriram"
+        },
+        {
+            "ownerID": "ID012",
+            "HostelID": 2,
+            "name": "Ayesha",
+            "DOB" : "09/11/2004",
+            "phoneNo": "7349908282",
+            "emailID": "ayesha6443@gmail.com",
+            "profileID": "/profile/SrirAyeshaam"
+        }
+    ]
+}

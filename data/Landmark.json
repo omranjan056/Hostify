@@ -1,0 +1,220 @@
+{
+  "LandMark": [
+    {
+      "id": 1,
+      "name": "Pari Residency",
+      "lat": 45.43434,
+      "lng": 33.43535,
+      "star": 4,
+      "type": 1,
+      "price": 4999
+    },
+    {
+      "id": 2,
+      "name": "Gokul Hostel",
+      "lat": 56.90923,
+      "lng": 12.9004,
+      "star": 3,
+      "type": 0,
+      "price": 5999
+    },
+    {
+      "id": 3,
+      "name": "Vibrant Academy",
+      "lat": 48.43433,
+      "lng": 89.92448,
+      "star": 2,
+      "type": 0,
+      "price": 5499
+    },
+    {
+      "id": 4,
+      "name": "Resonance",
+      "lat": 67.94343,
+      "lng": 34.9002,
+      "star": 5,
+      "type": 1,
+      "price": 4999
+    },
+    {
+      "id": 5,
+      "name": "Uncle Mess",
+      "lat": 90.34343,
+      "lng": 34.54543,
+      "star": 4,
+      "type": 1,
+      "price": 6499
+    },
+    {
+      "id": 6,
+      "name": "Allen Samayak",
+      "lat": 56.34353,
+      "lng": 20.83489,
+      "star": 4,
+      "type": 0,
+      "price": 5499
+    },
+    {
+      "id": 7,
+      "name": "Akash Talwandi Circle",
+      "lat": 89.43433,
+      "lng": 82.43434,
+      "star": 1,
+      "type": 1,
+      "price": 3999
+    },
+    {
+      "id": 8,
+      "name": "Sarvottam",
+      "lat": 35.35533,
+      "lng": 64.39949,
+      "star": 5,
+      "type": 1,
+      "price": 6999
+    },
+    {
+      "id": 9,
+      "name": "Hotel California",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "star": 4,
+      "type": 1,
+      "price": 250
+    },
+    {
+      "id": 10,
+      "name": "Cozy Cabin",
+      "lat": 44.428,
+      "lng": -110.5885,
+      "star": 3,
+      "type": 0,
+      "price": 150
+    },
+    {
+      "id": 11,
+      "name": "Beach House",
+      "lat": 33.6846,
+      "lng": -118.1633,
+      "star": 5,
+      "type": 1,
+      "price": 500
+    },
+    {
+      "id": 12,
+      "name": "Mountain Lodge",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "star": 4,
+      "type": 0,
+      "price": 300
+    },
+    {
+      "id": 13,
+      "name": "Luxury Villa",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "star": 5,
+      "type": 0,
+      "price": 1000
+    },
+    {
+      "id": 14,
+      "name": "Beachfront Villa",
+      "lat": 41.9025,
+      "lng": 12.5015,
+      "star": 5,
+      "type": 1,
+      "price": 1500
+    },
+    {
+      "id": 15,
+      "name": "Luxury Penthouse",
+      "lat": 41.9062,
+      "lng": 12.4819,
+      "star": 5,
+      "type": 1,
+      "price": 2000
+    },
+    {
+      "id": 16,
+      "name": "Secluded Cabin",
+      "lat": 41.9318,
+      "lng": 12.4932,
+      "star": 4,
+      "type": 0,
+      "price": 1000
+    },
+    {
+      "id": 17,
+      "name": "Charming Apartment",
+      "lat": 41.8999,
+      "lng": 12.4792,
+      "star": 3,
+      "type": 1,
+      "price": 800
+    },
+    {
+      "id": 18,
+      "name": "Coastal Retreat",
+      "lat": 41.8893,
+      "lng": 12.4987,
+      "star": 4,
+      "type": 0,
+      "price": 1200
+    },
+    {
+      "id": 19,
+      "name": "Rustic Farmhouse",
+      "lat": 41.9096,
+      "lng": 12.5105,
+      "star": 3,
+      "type": 1,
+      "price": 700
+    },
+    {
+      "id": 20,
+      "name": "Modern Loft",
+      "lat": 41.8986,
+      "lng": 12.4864,
+      "star": 4,
+      "type": 1,
+      "price": 900
+    },
+    {
+      "id": 21,
+      "name": "Mountain Chalet",
+      "lat": 41.9337,
+      "lng": 12.4925,
+      "star": 5,
+      "type": 0,
+      "price": 2000
+    },
+    {
+      "id": 22,
+      "name": "Seaview Apartment",
+      "lat": 41.9037,
+      "lng": 12.5038,
+      "star": 3,
+      "type": 1,
+      "price": 600
+    },
+    {
+      "id": 23,
+      "name": "Luxury Yacht",
+      "lat": 41.9122,
+      "lng": 12.4957,
+      "star": 5,
+      "type": 0,
+      "price": 3000
+    },
+    {
+      "id": 24,
+      "name": "Historic Villa",
+      "lat": 41.9026,
+      "lng": 12.4883,
+      "star": 4,
+      "type": 1,
+      "price": 1200
+    }
+  ]
+}
